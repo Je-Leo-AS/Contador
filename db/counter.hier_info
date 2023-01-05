@@ -1,0 +1,39 @@
+|counter
+clk => uni[0].CLK
+clk => uni[1].CLK
+clk => uni[2].CLK
+clk => uni[3].CLK
+S[0] <= uni[0].DB_MAX_OUTPUT_PORT_TYPE
+S[1] <= uni[1].DB_MAX_OUTPUT_PORT_TYPE
+S[2] <= uni[2].DB_MAX_OUTPUT_PORT_TYPE
+S[3] <= uni[3].DB_MAX_OUTPUT_PORT_TYPE
+S[4] <= <GND>
+S[5] <= <GND>
+S[6] <= <GND>
+S[7] <= <GND>
+S[8] <= <GND>
+S[9] <= <GND>
+S[10] <= <GND>
+S[11] <= <GND>
+S[12] <= <GND>
+S[13] <= <GND>
+S[14] <= <GND>
+S[15] <= <GND>
+S[16] <= <GND>
+S[17] <= <GND>
+S[18] <= <GND>
+S[19] <= <GND>
+S[20] <= <GND>
+S[21] <= <GND>
+S[22] <= <GND>
+S[23] <= <GND>
+S[24] <= <GND>
+S[25] <= <GND>
+S[26] <= <GND>
+S[27] <= <GND>
+S[28] <= <GND>
+S[29] <= <GND>
+S[30] <= <GND>
+S[31] <= <GND>
+
+
